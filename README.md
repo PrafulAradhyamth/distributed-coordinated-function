@@ -126,15 +126,3 @@ You can modify the following parameters at the beginning of the `wifi_throughput
 * `m_scenarios`: A vector defining the corresponding maximum backoff stages for each `W_scenario`.
 * `num_stations_range`: The range of the number of stations for which to calculate throughput.
 * `Spkt_sim_target`: The number of successful packets to simulate for each run (determines simulation length).
-
----
-
-## Contributing
-
-Feel free to fork this repository, modify the code, and experiment with different parameters or even extend the models.
-
----
-
-## License
-
-This project is open-source and available under the [MIT License](LICENSE).
