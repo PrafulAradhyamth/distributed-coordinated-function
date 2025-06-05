@@ -21,8 +21,6 @@ By combining both methods, the script allows for direct comparison and validatio
     * [Bianchi's Analytical Model](#bianchis-analytical-model)
 * [Interpreting the Results](#interpreting-the-results)
 * [Parameters](#parameters)
-* [Contributing](#contributing)
-* [License](#license)
 
 ---
 
